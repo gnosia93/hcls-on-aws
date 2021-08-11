@@ -9,6 +9,8 @@
 
 * [Amazon HealthLake – 클라우드 기반 의료 데이터 저장, 변환 및 분석 서비스 제공](https://aws.amazon.com/ko/blogs/korea/new-amazon-healthlake-to-store-transform-and-analyze-petabytes-of-health-and-life-sciences-data-in-the-cloud/)
 
+* [AMAZON HEALTHLAKE WORKSHOP](https://amazon-healthlake.workshop.aws/)
+
 
 
 ## FHIR Works on AWS ##
