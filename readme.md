@@ -7,7 +7,7 @@
 * [AWS re:Invent 2020 - Machine Learning Keynote with Swami Sivasubramanian](https://www.youtube.com/watch?v=PjDysgCvRqY) - 1:30
 
 
-## Fireworks on AWS ##
+## FHIR Works on AWS ##
 
 * https://aws.amazon.com/ko/blogs/architecture/building-a-serverless-fhir-interface-on-aws/
 
