@@ -15,6 +15,10 @@
 
 [세션]
 
+* AWS re:Invent 2020: An introduction to healthcare interoperability and FHIR Works on AWS
+
+  https://www.youtube.com/watch?v=UEo6gP4_aYE
+
 * AWS re:Invent 2020: Achieving healthcare interoperability with FHIR Works on AWS
 
-
+  https://www.youtube.com/watch?v=v-f9ueDWaJE
