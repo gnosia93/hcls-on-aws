@@ -7,6 +7,10 @@
 * [AWS re:Invent 2020 - Machine Learning Keynote with Swami Sivasubramanian](https://www.youtube.com/watch?v=PjDysgCvRqY) - 1:30
 
 
+* [Amazon HealthLake – 클라우드 기반 의료 데이터 저장, 변환 및 분석 서비스 제공](https://aws.amazon.com/ko/blogs/korea/new-amazon-healthlake-to-store-transform-and-analyze-petabytes-of-health-and-life-sciences-data-in-the-cloud/)
+
+
+
 ## FHIR Works on AWS ##
 
 * https://aws.amazon.com/ko/blogs/architecture/building-a-serverless-fhir-interface-on-aws/
