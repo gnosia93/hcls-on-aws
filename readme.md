@@ -11,6 +11,7 @@
 
 * [AMAZON HEALTHLAKE WORKSHOP](https://amazon-healthlake.workshop.aws/)
 
+* [Population health applications with Amazon HealthLake – Part 1: Analytics and monitoring using Amazon QuickSight](https://aws.amazon.com/ko/blogs/machine-learning/population-health-applications-with-amazon-healthlake-part-1-analytics-and-monitoring-using-amazon-quicksight/)
 
 
 ## FHIR Works on AWS ##
