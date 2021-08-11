@@ -13,3 +13,8 @@
 
 * https://aws.amazon.com/ko/blogs/opensource/using-open-source-fhir-apis-with-fhir-works-on-aws/
 
+[세션]
+
+* AWS re:Invent 2020: Achieving healthcare interoperability with FHIR Works on AWS
+
+
