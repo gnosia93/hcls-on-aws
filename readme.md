@@ -2,7 +2,7 @@
 
 * http://hl7.org/fhir/
 
-
+![fhir](https://github.com/gnosia93/datalake-on-aws/blob/main/images/fhir.png)
 
 
 ## 아마존 HealthLake ##
