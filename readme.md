@@ -7,6 +7,12 @@
 
 ## 아마존 HealthLake ##
 
+### 0. 발표영상 ###
+
+* [AWS re:Invent 2020: Make sense of health data with Amazon HealthLake](https://www.youtube.com/watch?v=Ld2Uno3V4Xk)
+
+
+
 ### 1. 자료 ###
 
 * http://www.dt.co.kr/contents.html?article_no=2020120902109931650006
