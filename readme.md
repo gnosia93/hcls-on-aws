@@ -11,6 +11,8 @@
 
 * [AWS re:Invent 2020: Make sense of health data with Amazon HealthLake](https://www.youtube.com/watch?v=Ld2Uno3V4Xk)
 
+* [AWS on Air 2020: AWS What’s Next ft. Amazon HealthLake](https://www.youtube.com/watch?v=I90EgWkb-O0)
+
 
 
 ### 1. 자료 ###
